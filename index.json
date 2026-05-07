@@ -6006,6 +6006,47 @@
       "updated": "2026-03-16"
     },
     {
+      "name": "nier-2b",
+      "display_name": "2B (Nier Automata)",
+      "version": "1.0.0",
+      "description": "English voices for 2B from Nier Automata",
+      "author": {
+        "name": "Chris Welcz",
+        "github": "enolive"
+      },
+      "trust_tier": "verified",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.start",
+        "session.end",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-SA-4.0",
+      "sound_count": 60,
+      "total_size_bytes": 1843200,
+      "source_repo": "enolive/openpeon-pack-nier-2b",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "f8c47527f4911683ec111f400865f629e095ac91f3f7d83adf2ce3af7e8985b6",
+      "tags": [
+        "gaming",
+        "nier automata",
+        "2b"
+      ],
+      "preview_sounds": [
+        "glory-to-mankind.mp3",
+        "emotions-are-prohibited.mp3",
+        "awaiting-further-orders.mp3"
+      ],
+      "added": "2026-05-08",
+      "updated": "2026-05-08"
+    },
+    {
       "name": "nightflame-minimal",
       "display_name": "Nightflame Menu UI",
       "version": "1.0.1",
